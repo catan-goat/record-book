@@ -3,11 +3,11 @@
 
 ## Trophy Stats
 
-| Trophy Holder | Date/time | Time held | 
-| - | - | - |
-| Tom? | ? | several months |
-| Scott | ~August | 2 hrs |
-| Tom | ~ August | several months |
-| Scott | ~September| 2 hrs |
-| Greg | ~September | 1 month |
-
+| Trophy Holder | Date/time |
+| - | - |
+| Tom? | ? |
+| Scott | ~August | 
+| Tom | ~ August |
+| Scott | ~September| 
+| Greg | ~September | 
+| Dom | 9/27 |
